@@ -14,6 +14,8 @@ A simple weather application built with Python and PyQt5 that fetches weather da
 - PyQt5
 - requests
 
+**NOTE**: Update the API key from OpenWeatherMap in main.py
+
 ## Installation
 
 1. Clone the repository:
